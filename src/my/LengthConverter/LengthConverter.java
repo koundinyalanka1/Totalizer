@@ -11,7 +11,7 @@ import my.Joker.Joker;
 
 /**
  *
- * @author revanthsivaji
+ * @author koundinyalanka
  */
 public class LengthConverter extends javax.swing.JFrame {
 
