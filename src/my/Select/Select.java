@@ -15,7 +15,7 @@ import my.Joker.Joker;
 
 /**
  *
- * @author revanthsivaji
+ * @author koundinyalanka
  */
 public class Select extends javax.swing.JFrame {
 
