@@ -11,7 +11,7 @@ import my.FinCalculator.FinCalculator;
 
 /**
  *
- * @author revanthsivaji
+ * @author koundinyalanka
  */
 public class Loan extends javax.swing.JFrame {
 
