@@ -7,7 +7,7 @@ package my.Information;
 
 /**
  *
- * @author revanthsivaji
+ * @author koundinyalanka
  */
 public class Information extends javax.swing.JFrame {
 
