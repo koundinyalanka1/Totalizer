@@ -13,7 +13,7 @@ import my.Select.Select;
 
 /**
  *
- * @author revanthsivaji
+ * @author koundinyalanka
  */
 public class Joker extends javax.swing.JFrame {
 
