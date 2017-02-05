@@ -11,7 +11,7 @@ import my.Select.Select;
 
 /**
  *
- * @author revanthsivaji
+ * @author koundinyalanka
  */
 public class Calculator extends javax.swing.JFrame {
 double r1; 
