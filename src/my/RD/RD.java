@@ -12,7 +12,7 @@ import my.FinCalculator.FinCalculator;
 
 /**
  *
- * @author revanthsivaji
+ * @author koundinyalanka
  */
 public class RD extends javax.swing.JFrame {
 
