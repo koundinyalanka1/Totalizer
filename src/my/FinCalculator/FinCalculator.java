@@ -14,7 +14,7 @@ import my.SimpleInterest.SimpleInterest;
 
 /**
  *
- * @author revanthsivaji
+ * @author koundinyalanka
  */
 public class FinCalculator extends javax.swing.JFrame {
 
