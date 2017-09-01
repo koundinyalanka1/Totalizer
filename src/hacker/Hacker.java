@@ -20,6 +20,7 @@ public class Hacker {
         // TODO code application logic here
         Password obj=new Password();
                 obj.setVisible(true);
+        //start executing
                 
     }
     
