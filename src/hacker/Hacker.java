@@ -18,8 +18,9 @@ public class Hacker {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Password obj=new Password();
-                obj.setVisible(true);
+        Password ob=new Password();
+                ob.setVisible(true);
+        //start executing
                 
     }
     
